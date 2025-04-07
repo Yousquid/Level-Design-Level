@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 "C:\Users\30791\Documents\GitHub\Level-Design-Level\Level_Design_Prac\Intermediate\Build\Win64\x64\Level_Design_PracEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.cpp"
+=======
+"C:\Users\30791\Level-Design-Level\Level_Design_Prac\Intermediate\Build\Win64\x64\Level_Design_PracEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.cpp"
+>>>>>>> Stashed changes
 /I "."
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\UnrealEd\UHT"
 /I "Programs\UnrealLightmass\Public"
@@ -298,10 +302,17 @@
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
 /Yc"SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
+<<<<<<< Updated upstream
 /Fp"C:\Users\30791\Documents\GitHub\Level-Design-Level\Level_Design_Prac\Intermediate\Build\Win64\x64\Level_Design_PracEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.pch"
 /Fo"C:\Users\30791\Documents\GitHub\Level-Design-Level\Level_Design_Prac\Intermediate\Build\Win64\x64\Level_Design_PracEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
 /experimental:log "C:\Users\30791\Documents\GitHub\Level-Design-Level\Level_Design_Prac\Intermediate\Build\Win64\x64\Level_Design_PracEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.sarif"
 /sourceDependencies "C:\Users\30791\Documents\GitHub\Level-Design-Level\Level_Design_Prac\Intermediate\Build\Win64\x64\Level_Design_PracEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.dep.json"
+=======
+/Fp"C:\Users\30791\Level-Design-Level\Level_Design_Prac\Intermediate\Build\Win64\x64\Level_Design_PracEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.pch"
+/Fo"C:\Users\30791\Level-Design-Level\Level_Design_Prac\Intermediate\Build\Win64\x64\Level_Design_PracEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+/experimental:log "C:\Users\30791\Level-Design-Level\Level_Design_Prac\Intermediate\Build\Win64\x64\Level_Design_PracEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.sarif"
+/sourceDependencies "C:\Users\30791\Level-Design-Level\Level_Design_Prac\Intermediate\Build\Win64\x64\Level_Design_PracEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.dep.json"
+>>>>>>> Stashed changes
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

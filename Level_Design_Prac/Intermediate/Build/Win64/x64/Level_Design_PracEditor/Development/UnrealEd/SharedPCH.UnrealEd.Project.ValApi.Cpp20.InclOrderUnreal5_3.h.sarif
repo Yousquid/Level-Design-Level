@@ -10,7 +10,11 @@
                         "text": "'FBoneMirrorInfo': FBoneMirrorInfo is deprecated. Please use UMirrorDataTable for mirroring support. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile."
                     },
                     "analysisTarget": {
+<<<<<<< Updated upstream
                         "uri": "file:///C:/Users/30791/Documents/GitHub/Level-Design-Level/Level_Design_Prac/Intermediate/Build/Win64/x64/Level_Design_PracEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.cpp"
+=======
+                        "uri": "file:///C:/Users/30791/Level-Design-Level/Level_Design_Prac/Intermediate/Build/Win64/x64/Level_Design_PracEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.cpp"
+>>>>>>> Stashed changes
                     },
                     "locations": [
                         {

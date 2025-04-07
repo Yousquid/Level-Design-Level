@@ -1,5 +1,9 @@
 /I "."
+<<<<<<< Updated upstream
 /I "C:\Users\30791\Documents\GitHub\Level-Design-Level\Level_Design_Prac\Source"
+=======
+/I "C:\Users\30791\Level-Design-Level\Level_Design_Prac\Source"
+>>>>>>> Stashed changes
 /I "Runtime\Core\Public"
 /I "Runtime\Core\Internal"
 /I "Runtime\TraceLog\Public"

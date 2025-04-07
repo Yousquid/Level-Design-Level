@@ -1,11 +1,19 @@
 {
     "Version": "1.2",
     "Data": {
+<<<<<<< Updated upstream
         "Source": "c:\\users\\30791\\documents\\github\\level-design-level\\level_design_prac\\intermediate\\build\\win64\\x64\\level_design_praceditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.cpp",
         "ProvidedModule": "",
         "Includes": [
             "c:\\users\\30791\\documents\\github\\level-design-level\\level_design_prac\\intermediate\\build\\win64\\x64\\level_design_praceditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h",
             "c:\\users\\30791\\documents\\github\\level-design-level\\level_design_prac\\intermediate\\build\\win64\\x64\\level_design_praceditor\\development\\unrealed\\shareddefinitions.unrealed.project.valapi.cpp20.inclorderunreal5_3.h",
+=======
+        "Source": "c:\\users\\30791\\level-design-level\\level_design_prac\\intermediate\\build\\win64\\x64\\level_design_praceditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\30791\\level-design-level\\level_design_prac\\intermediate\\build\\win64\\x64\\level_design_praceditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h",
+            "c:\\users\\30791\\level-design-level\\level_design_prac\\intermediate\\build\\win64\\x64\\level_design_praceditor\\development\\unrealed\\shareddefinitions.unrealed.project.valapi.cpp20.inclorderunreal5_3.h",
+>>>>>>> Stashed changes
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\editor\\unrealed\\public\\unrealedsharedpch.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\public\\enginesharedpch.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\slate\\public\\slatesharedpch.h",

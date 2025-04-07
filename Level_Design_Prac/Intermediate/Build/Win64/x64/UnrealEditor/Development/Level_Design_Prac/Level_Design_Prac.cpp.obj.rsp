@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 "C:\Users\30791\Documents\GitHub\Level-Design-Level\Level_Design_Prac\Source\Level_Design_Prac\Level_Design_Prac.cpp"
 /FI"C:\Users\30791\Documents\GitHub\Level-Design-Level\Level_Design_Prac\Intermediate\Build\Win64\x64\Level_Design_PracEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
 /FI"C:\Users\30791\Documents\GitHub\Level-Design-Level\Level_Design_Prac\Intermediate\Build\Win64\x64\UnrealEditor\Development\Level_Design_Prac\Definitions.Level_Design_Prac.h"
@@ -7,6 +8,17 @@
 /experimental:log "C:\Users\30791\Documents\GitHub\Level-Design-Level\Level_Design_Prac\Intermediate\Build\Win64\x64\UnrealEditor\Development\Level_Design_Prac\Level_Design_Prac.cpp.sarif"
 /sourceDependencies "C:\Users\30791\Documents\GitHub\Level-Design-Level\Level_Design_Prac\Intermediate\Build\Win64\x64\UnrealEditor\Development\Level_Design_Prac\Level_Design_Prac.cpp.dep.json"
 @"C:\Users\30791\Documents\GitHub\Level-Design-Level\Level_Design_Prac\Intermediate\Build\Win64\x64\UnrealEditor\Development\Level_Design_Prac\Level_Design_Prac.Shared.rsp"
+=======
+"C:\Users\30791\Level-Design-Level\Level_Design_Prac\Source\Level_Design_Prac\Level_Design_Prac.cpp"
+/FI"C:\Users\30791\Level-Design-Level\Level_Design_Prac\Intermediate\Build\Win64\x64\Level_Design_PracEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
+/FI"C:\Users\30791\Level-Design-Level\Level_Design_Prac\Intermediate\Build\Win64\x64\UnrealEditor\Development\Level_Design_Prac\Definitions.Level_Design_Prac.h"
+/Yu"C:\Users\30791\Level-Design-Level\Level_Design_Prac\Intermediate\Build\Win64\x64\Level_Design_PracEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
+/Fp"C:\Users\30791\Level-Design-Level\Level_Design_Prac\Intermediate\Build\Win64\x64\Level_Design_PracEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.pch"
+/Fo"C:\Users\30791\Level-Design-Level\Level_Design_Prac\Intermediate\Build\Win64\x64\UnrealEditor\Development\Level_Design_Prac\Level_Design_Prac.cpp.obj"
+/experimental:log "C:\Users\30791\Level-Design-Level\Level_Design_Prac\Intermediate\Build\Win64\x64\UnrealEditor\Development\Level_Design_Prac\Level_Design_Prac.cpp.sarif"
+/sourceDependencies "C:\Users\30791\Level-Design-Level\Level_Design_Prac\Intermediate\Build\Win64\x64\UnrealEditor\Development\Level_Design_Prac\Level_Design_Prac.cpp.dep.json"
+@"C:\Users\30791\Level-Design-Level\Level_Design_Prac\Intermediate\Build\Win64\x64\UnrealEditor\Development\Level_Design_Prac\Level_Design_Prac.Shared.rsp"
+>>>>>>> Stashed changes
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo
