@@ -2,58 +2,28 @@
 	"Targets": [
 		{
 			"Name": "LiveLinkHub",
-<<<<<<< Updated upstream
 			"Path": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\Programs\\LiveLinkHub\\Source\\LiveLinkHub.Target.cs",
-=======
-			"Path": "..\\..\\..\\..\\..\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\Programs\\LiveLinkHub\\Source\\LiveLinkHub.Target.cs",
->>>>>>> Stashed changes
 			"Type": "Editor"
 		},
 		{
 			"Name": "DotNetPerforceLib",
-<<<<<<< Updated upstream
 			"Path": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.Perforce.Native\\DotNetPerforceLib.Target.cs",
-=======
-			"Path": "..\\..\\..\\..\\..\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.Perforce.Native\\DotNetPerforceLib.Target.cs",
->>>>>>> Stashed changes
 			"Type": "Program"
 		},
 		{
 			"Name": "EventLoopUnitTests",
-<<<<<<< Updated upstream
 			"Path": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\Runtime\\Online\\Experimental\\EventLoopTests\\EventLoopUnitTests.Target.cs",
-=======
-			"Path": "..\\..\\..\\..\\..\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\Runtime\\Online\\Experimental\\EventLoopTests\\EventLoopUnitTests.Target.cs",
->>>>>>> Stashed changes
 			"Type": "Program"
 		},
 		{
 			"Name": "UnrealEditor",
-<<<<<<< Updated upstream
 			"Path": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\UnrealEditor.Target.cs",
-=======
-			"Path": "..\\..\\..\\..\\..\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\UnrealEditor.Target.cs",
->>>>>>> Stashed changes
 			"Type": "Editor"
 		},
 		{
 			"Name": "UnrealGame",
-<<<<<<< Updated upstream
 			"Path": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\UnrealGame.Target.cs",
-=======
-			"Path": "..\\..\\..\\..\\..\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source\\UnrealGame.Target.cs",
->>>>>>> Stashed changes
 			"Type": "Game"
-		},
-		{
-			"Name": "Level_Design_Prac",
-			"Path": "..\\Source\\Level_Design_Prac.Target.cs",
-			"Type": "Game"
-		},
-		{
-			"Name": "Level_Design_PracEditor",
-			"Path": "..\\Source\\Level_Design_PracEditor.Target.cs",
-			"Type": "Editor"
 		}
 	]
 }
