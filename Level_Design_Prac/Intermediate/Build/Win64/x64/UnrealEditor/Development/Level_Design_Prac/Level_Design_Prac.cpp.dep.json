@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+<<<<<<< Updated upstream
+        "Source": "c:\\users\\30791\\documents\\github\\level-design-level\\level_design_prac\\source\\level_design_prac\\level_design_prac.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\30791\\documents\\github\\level-design-level\\level_design_prac\\intermediate\\build\\win64\\x64\\level_design_praceditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\30791\\documents\\github\\level-design-level\\level_design_prac\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\level_design_prac\\definitions.level_design_prac.h",
+            "c:\\users\\30791\\documents\\github\\level-design-level\\level_design_prac\\source\\level_design_prac\\level_design_prac.h"
+=======
+        "Source": "c:\\users\\30791\\level-design-level\\level_design_prac\\source\\level_design_prac\\level_design_prac.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\30791\\level-design-level\\level_design_prac\\intermediate\\build\\win64\\x64\\level_design_praceditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\30791\\level-design-level\\level_design_prac\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\level_design_prac\\definitions.level_design_prac.h",
+            "c:\\users\\30791\\level-design-level\\level_design_prac\\source\\level_design_prac\\level_design_prac.h"
+>>>>>>> Stashed changes
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

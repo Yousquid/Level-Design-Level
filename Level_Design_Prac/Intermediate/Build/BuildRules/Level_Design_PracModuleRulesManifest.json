@@ -1,0 +1,14 @@
+{
+	"SourceFiles": [
+<<<<<<< Updated upstream
+		"C:\\Users\\30791\\Documents\\GitHub\\Level-Design-Level\\Level_Design_Prac\\Source\\Level_Design_Prac\\Level_Design_Prac.Build.cs",
+		"C:\\Users\\30791\\Documents\\GitHub\\Level-Design-Level\\Level_Design_Prac\\Source\\Level_Design_Prac.Target.cs",
+		"C:\\Users\\30791\\Documents\\GitHub\\Level-Design-Level\\Level_Design_Prac\\Source\\Level_Design_PracEditor.Target.cs"
+=======
+		"C:\\Users\\30791\\Level-Design-Level\\Level_Design_Prac\\Source\\Level_Design_Prac\\Level_Design_Prac.Build.cs",
+		"C:\\Users\\30791\\Level-Design-Level\\Level_Design_Prac\\Source\\Level_Design_Prac.Target.cs",
+		"C:\\Users\\30791\\Level-Design-Level\\Level_Design_Prac\\Source\\Level_Design_PracEditor.Target.cs"
+>>>>>>> Stashed changes
+	],
+	"EngineVersion": "5.5.3"
+}

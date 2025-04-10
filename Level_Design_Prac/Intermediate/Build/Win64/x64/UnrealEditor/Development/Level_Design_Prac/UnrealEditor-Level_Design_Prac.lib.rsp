@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Level_Design_Prac.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+<<<<<<< Updated upstream
+"C:\Users\30791\Documents\GitHub\Level-Design-Level\Level_Design_Prac\Intermediate\Build\Win64\x64\Level_Design_PracEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"C:\Users\30791\Documents\GitHub\Level-Design-Level\Level_Design_Prac\Intermediate\Build\Win64\x64\UnrealEditor\Development\Level_Design_Prac\Level_Design_Prac.cpp.obj"
+"C:\Users\30791\Documents\GitHub\Level-Design-Level\Level_Design_Prac\Intermediate\Build\Win64\x64\UnrealEditor\Development\Level_Design_Prac\PerModuleInline.gen.cpp.obj"
+"C:\Users\30791\Documents\GitHub\Level-Design-Level\Level_Design_Prac\Intermediate\Build\Win64\x64\UnrealEditor\Development\Level_Design_Prac\Default.rc2.res"
+/OUT:"C:\Users\30791\Documents\GitHub\Level-Design-Level\Level_Design_Prac\Intermediate\Build\Win64\x64\UnrealEditor\Development\Level_Design_Prac\UnrealEditor-Level_Design_Prac.lib"
+=======
+"C:\Users\30791\Level-Design-Level\Level_Design_Prac\Intermediate\Build\Win64\x64\Level_Design_PracEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"C:\Users\30791\Level-Design-Level\Level_Design_Prac\Intermediate\Build\Win64\x64\UnrealEditor\Development\Level_Design_Prac\Level_Design_Prac.cpp.obj"
+"C:\Users\30791\Level-Design-Level\Level_Design_Prac\Intermediate\Build\Win64\x64\UnrealEditor\Development\Level_Design_Prac\PerModuleInline.gen.cpp.obj"
+"C:\Users\30791\Level-Design-Level\Level_Design_Prac\Intermediate\Build\Win64\x64\UnrealEditor\Development\Level_Design_Prac\Default.rc2.res"
+/OUT:"C:\Users\30791\Level-Design-Level\Level_Design_Prac\Intermediate\Build\Win64\x64\UnrealEditor\Development\Level_Design_Prac\UnrealEditor-Level_Design_Prac.lib"
+>>>>>>> Stashed changes
